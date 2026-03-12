@@ -1,1 +1,1 @@
-FROM wazuh/wazuh-manager:5.0.0
+FROM wazuh/wazuh-manager:4.7.4
